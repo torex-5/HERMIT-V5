@@ -24,16 +24,17 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HERMIT-SIR/HERMIT-V5/blob/master/session.json#L1)
+[`Click Here`](https://github.com/HERMIT-SIR/HERMIT-V5/blob/main/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/HERMIT-SIR/HERMIT-V5/blob/v15/settings.json#L1)
-- Owner name [Here](https://github.com/HERMIT-SIR/HERMIT-V5/blob/v15/settings.json#L1)
-- Botname [Here](https://github.com/HERMIT-SIR/HERMIT-V5/blob/v15/settings.json#L1)
+- Owner number [Here](https://github.com/HERMIT-SIR/HERMIT-V5/blob/main/settings.json#L1)
+- Owner name [Here](https://github.com/HERMIT-SIR/HERMIT-V5/blob/main/settings.json#L1)
+- Botname [Here](https://github.com/HERMIT-SIR/HERMIT-V5/blob/main/settings.json#L1)
 
 
 ## `THANKS TO`
 
-- All bot Creators
-- All my friends 
+- ZEEOFC
+- All BOT CREATORS
+- All MY FRIENDS
